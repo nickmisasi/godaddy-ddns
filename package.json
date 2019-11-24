@@ -1,0 +1,25 @@
+{
+  "name": "godaddy-ddns",
+  "version": "1.0.0",
+  "description": "Use the Godaddy Developer API to update a DNS record with your current public IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmisasi13/godaddy-ddns.git"
+  },
+  "keywords": [
+    "godaddy",
+    "ddns",
+    "dynamic",
+    "dns"
+  ],
+  "author": "Nick Misasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickmisasi13/godaddy-ddns/issues"
+  },
+  "homepage": "https://github.com/nickmisasi13/godaddy-ddns#readme"
+}
